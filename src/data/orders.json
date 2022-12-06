@@ -1,5 +1,6 @@
 [
     {
+        "id": 11417,
         "name": "Pran Chinigura Aromatic Rice - 50kg",
         "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
         "image": "https://chaldn.com/_mpimage/pran-chinigura-aromatic-rice-2-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108114&q=best&v=1&m=400&webp=1",
@@ -8,9 +9,11 @@
         "brand": "Pran",
         "price": 400,
         "quantity": 3,
-        "status": "Pending"
+        "status": "Pending",
+        "payment": "PAID"
     },
     {
+        "id": 22427,
         "name": "Pran Nazirshail Rice - 5kg",
         "description": "Pran Nazirshail Rice. Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
         "image": "https://chaldn.com/_mpimage/pran-nazirshail-rice-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48089&q=low&v=1&m=400&webp=1",
@@ -19,9 +22,11 @@
         "brand": "Pran",
         "price": 300,
         "quantity": 1,
-        "status": "Shipped"
+        "status": "Shipped",
+        "payment": "OOD"
     },
     {
+        "id": 33437,
         "name": "Fresh Chinigura Rice",
         "description": "Fresh Chinigura Rice. Fresh and Clean, Vacuum Packed. Fresh Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
         "image": "https://chaldn.com/_mpimage/fresh-chinigura-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D84466&q=low&v=1&m=400&webp=1",
@@ -30,9 +35,11 @@
         "brand": "Fresh",
         "price": 799,
         "quantity": 3,
-        "status": "Accepted"
+        "status": "Accepted",
+        "payment": "OOD"
     },
     {
+        "id": 44447,
         "name": "ACI Pure Miniket Rice Premium",
         "description": "ACI Pure Miniket Rice Premium. Fresh and Clean, Vacuum Packed. ACI Pure Miniket Rice Premium can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
         "image": "https://chaldn.com/_mpimage/aci-pure-miniket-rice-premium-10-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48063&q=best&v=1&m=400&webp=1",
@@ -41,9 +48,11 @@
         "brand": "ACI",
         "price": 330,
         "quantity": 1,
-        "status": "Pending"
+        "status": "Pending",
+        "payment": "PAID"
     },
     {
+        "id": 55457,
         "name": "Fresh Fortified Soyabean Oil - 5ltr",
         "description": "Fresh Fortified Soyabean Oil follows 3 steps of refining process-Perfect Degumming & Neutralization, Balanced De-colorization and Five steps Deodorization to ensure right ratio of Omega 3 & 6 and intact Beta-carotene in Soyabean Oil. Fresh soyabean oil contain vitamin A. Its fresh and healthy.",
         "image": "https://chaldn.com/_mpimage/fresh-fortified-soyabean-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D93160&q=best&v=1&m=400&webp=1",
@@ -52,9 +61,11 @@
         "brand": "Fresh",
         "price": 440,
         "quantity": 5,
-        "status": "Shipped"
+        "status": "Shipped",
+        "payment": "PAID"
     },
     {
+        "id": 66467,
         "name": "Rupchanda Fortified Soyabean Oil - 5ltr",
         "description": "First Vitamin A fortified Soyabean Oil. Increases immunity. Strengthens bone & teeth.",
         "image": "https://chaldn.com/_mpimage/rupchanda-fortified-soyabean-oil-5-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92500&q=best&v=1&m=400&webp=1",
@@ -63,6 +74,7 @@
         "brand": "Rupchanda",
         "price": 700,
         "quantity": 1,
-        "status": "Accepted"
+        "status": "Accepted",
+        "payment": "OOD"
     }
 ]

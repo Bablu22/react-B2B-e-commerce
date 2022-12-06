@@ -1,33 +1,42 @@
-import { FaBookmark, FaRegEdit, FaUserLock } from "react-icons/fa"
-import {
-    HiUser
-} from 'react-icons/hi'
+import { HiSquaresPlus } from "react-icons/hi2";
+import { AiFillHome, AiFillShopping, AiFillDatabase } from "react-icons/ai";
+import { FaUserAlt, FaUsers } from "react-icons/fa"
 
 export const DASHBOARD_SIDEBAR_LINKS = [
     {
-        key: 'profile',
-        label: 'Your Profile',
-        path: '/dashboard',
-        icon: <HiUser />
+        key: "home",
+        label: "Home",
+        path: "/",
+        icon: <AiFillHome />,
     },
     {
-        key: 'edit',
-        label: 'Update Profile',
-        path: '/dashboard/edit-profile',
-        icon: <FaRegEdit />
+        key: "orders",
+        label: "Orders",
+        path: "/orders",
+        icon: <AiFillShopping />,
     },
     {
-        key: 'password',
-        label: 'Change Password',
-        path: '/dashboard/change-password',
-        icon: <FaUserLock />
+        key: "products",
+        label: "Products",
+        path: "/products",
+        icon: <HiSquaresPlus />,
     },
     {
-        key: 'bookings',
-        label: 'Bookings',
-        path: '/dashboard/bookings',
-        icon: <FaBookmark />
+        key: "manage",
+        label: "Manage",
+        path: "/manage",
+        icon: <AiFillDatabase />,
     },
-
-]
-
+    {
+        key: "customers",
+        label: "Customers",
+        path: "/customers",
+        icon: <FaUsers />,
+    },
+    {
+        key: "account",
+        label: "Account",
+        path: "/account",
+        icon: <FaUserAlt />,
+    },
+];

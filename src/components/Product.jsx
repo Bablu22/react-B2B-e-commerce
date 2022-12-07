@@ -6,7 +6,7 @@ function Product({ product }) {
         <>
             <div className="bg-white text-dark rounded-lg shadow-lg mb-2">
                 <main className="px-5 py-5 h-40">
-                    <content className="grid grid-cols-6">
+                    <div className="grid grid-cols-6">
                         <div className="">
                             <img src={product.image} className="h-18 w-18 rounded" alt="" />
                         </div>
@@ -33,7 +33,7 @@ function Product({ product }) {
                                 <BsThreeDotsVertical />
                             </button>
                         </div>
-                    </content>
+                    </div>
                 </main>
 
                 <footer className="px-5 py-4  border-t border-gray-200 flex justify-center">

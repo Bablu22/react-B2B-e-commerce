@@ -21,18 +21,14 @@ export const DASHBOARD_SIDEBAR_LINKS = [
         path: "/products",
         icon: <HiSquaresPlus />,
     },
-    {
-        key: "manage",
-        label: "Manage",
-        path: "/manage",
-        icon: <AiFillDatabase />,
-    },
+
     {
         key: "customers",
         label: "Customers",
         path: "/customers",
         icon: <FaUsers />,
     },
+
     {
         key: "account",
         label: "Account",

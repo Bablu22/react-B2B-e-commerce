@@ -4,7 +4,7 @@ import BottomLink from './BottomLink'
 
 function BottomBar() {
     return (
-        <div className='fixed bg-slate-200 bottom-0 left-0 right-0 w-full md:hidden z-[200]'>
+        <div className='fixed bg-slate-200 bottom-0 left-0 right-0 w-full lg:hidden z-[200]'>
             <div
                 className=""
             >

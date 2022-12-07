@@ -4,7 +4,6 @@ import Account from "./pages/Account";
 import Customers from "./pages/Customers";
 import Home from "./pages/Home";
 import Layout from "./pages/Layout";
-import Manage from "./pages/Manage";
 import Orders from "./pages/Orders";
 import Products from "./pages/Products";
 
@@ -18,7 +17,6 @@ function App() {
             <Route index element={<Home />} />
             <Route path="/orders" element={<Orders />} />
             <Route path="/products" element={<Products />} />
-            <Route path="/manage" element={<Manage />} />
             <Route path="/account" element={<Account />} />
             <Route path="/customers" element={<Customers />} />
           </Route>
